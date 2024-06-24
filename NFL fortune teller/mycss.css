@@ -1,0 +1,30 @@
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+  }
+   body {
+    background-color: #163816;
+    color: #c7c42a;
+    text-align: center;
+  }
+  a {
+    color: #006eff;
+  }
+  
+  a:hover {
+    color: #2f4eda;
+  }
+  p{
+    font-family: sans-serif;
+    text-align: center;
+    color:#c7c42a
+  }
+  img{
+   display:block;
+   margin-left: auto;
+   margin-right: auto; 
+
+  }
+
+ 
